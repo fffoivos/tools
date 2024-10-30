@@ -1,0 +1,289 @@
+{
+  "statistics": {
+    "total_files": 1201
+  },
+  "types": {
+    "commentary": {
+      "subtypes": {
+        "addenda": {
+          "path": "./tlg4027/tlg001/tlg4027.tlg001.1st1K-grc1.xml"
+        },
+        "ancient": {
+          "path": "./tlg3129/ogl001/tlg3129.ogl001.1st1K-grc1.xml"
+        },
+        "appendix": {
+          "path": "./tlg0527/tlg048/tlg0527.tlg048.1st1K-eng2.xml"
+        },
+        "auctores": {
+          "path": "./tlg4102/tlg002/tlg4102.tlg002.1st1K-grc1.xml"
+        },
+        "auctorm": {
+          "path": "./tlg4102/tlg038/tlg4102.tlg038.1st1K-grc1.xml"
+        },
+        "autorum": {
+          "path": "./tlg4102/tlg013/tlg4102.tlg013.1st1K-grc1.xml"
+        },
+        "conspectus": {
+          "path": "./tlg4015/tlg005/tlg4015.tlg005.1st1K-grc1.xml"
+        },
+        "corrigenda": {
+          "path": "./tlg2371/tlg001/tlg2371.tlg001.1st1K-grc1.xml"
+        },
+        "epimetrum": {
+          "path": "./tlg0643/opp002/tlg0643.opp002.1st1K-lat1.xml"
+        },
+        "explicatio": {
+          "path": "./tlg0643/tlg001/tlg0643.tlg001.1st1K-lat1.xml"
+        },
+        "ii_loci": {
+          "path": "./tlg4016/tlg001/tlg4016.tlg001.1st1K-grc1.xml"
+        },
+        "iii_loci": {
+          "path": "./tlg4015/tlg005/tlg4015.tlg005.1st1K-grc1.xml"
+        },
+        "index": {
+          "path": "./tlg0527/tlg048/tlg0527.tlg048.1st1K-mul1.xml"
+        },
+        "index.2": {
+          "path": "./tlg4015/tlg005/tlg4015.tlg005.1st1K-grc1.xml"
+        },
+        "iv_loci": {
+          "path": "./tlg4015/tlg005/tlg4015.tlg005.1st1K-grc1.xml"
+        },
+        "loci": {
+          "path": "./tlg4016/tlg003/tlg4016.tlg003.1st1K-grc1.xml"
+        },
+        "notes": {
+          "path": "./tlg0527/tlg048/tlg0527.tlg048.1st1K-eng1.xml"
+        },
+        "preface": {
+          "path": "./tlg4027/tlg001/tlg4027.tlg001.1st1K-grc1.xml"
+        },
+        "toc": {
+          "path": "./tlg2733/tlg001/tlg2733.tlg001.1st1K-grc1.xml"
+        }
+      }
+    },
+    "edition": {
+      "subtypes": {
+        "work": {
+          "path": "./tlg4102/tlg003/tlg4102.tlg003.1st1K-grc1.xml"
+        }
+      }
+    },
+    "textpart": {
+      "subtypes": {
+        " chapter": {
+          "path": "./tlg2586/tlg001/tlg2586.tlg001.1st1K-grc1.xml"
+        },
+        " section": {
+          "path": "./tlg9010/tlg001/tlg9010.tlg001.1st1K-grc1.xml"
+        },
+        "2": {
+          "path": "./tlg5023/tlg001/tlg5023.tlg001.1st1K-grc1.xml"
+        },
+        "3": {
+          "path": "./tlg5023/tlg001/tlg5023.tlg001.1st1K-grc1.xml"
+        },
+        "anapests": {
+          "path": "./tlg0085/tlg001/tlg0085.tlg001.1st1K-grc1.xml"
+        },
+        "antistrophe": {
+          "path": "./tlg0085/tlg001/tlg0085.tlg001.1st1K-grc1.xml"
+        },
+        "aphorism": {
+          "path": "./tlg0627/tlg012/tlg0627.tlg012.1st1K-grc1.xml"
+        },
+        "book": {
+          "path": "./tlg1551/tlg001/tlg1551.tlg001.1st1K-grc1.xml"
+        },
+        "castlist": {
+          "path": "./tlg0085/tlg003/tlg0085.tlg003.1st1K-grc1.xml"
+        },
+        "centuria": {
+          "path": "./tlg9006/tlg001/tlg9006.tlg001.1st1K-grc1.xml"
+        },
+        "chap0ter": {
+          "path": "./tlg9010/tlg001/tlg9010.tlg001.1st1K-grc1.xml"
+        },
+        "chapter": {
+          "path": "./tlg0090/tlg001/tlg0090.tlg001.opp-lat4.xml"
+        },
+        "chapter1": {
+          "path": "./tlg0559/tlg016/tlg0559.tlg016.1st1K-grc1.xml"
+        },
+        "chapterer": {
+          "path": "./tlg5022/tlg006/tlg5022.tlg006.1st1K-grc1.xml"
+        },
+        "chapters": {
+          "path": "./tlg0656/tlg001/tlg0656.tlg001.1st1K-grc1.xml"
+        },
+        "chaptser": {
+          "path": "./tlg0656/tlg001/tlg0656.tlg001.1st1K-grc1.xml"
+        },
+        "chaspter": {
+          "path": "./tlg9010/tlg001/tlg9010.tlg001.1st1K-grc1.xml"
+        },
+        "choral": {
+          "path": "./tlg0085/tlg001/tlg0085.tlg001.1st1K-grc1.xml"
+        },
+        "close": {
+          "path": "./tlg0085/tlg005/tlg0085.tlg005.1st1K-grc1.xml"
+        },
+        "comment": {
+          "path": "./tlg4102/tlg011/tlg4102.tlg011.1st1K-grc1.xml"
+        },
+        "commentary": {
+          "path": "./tlg4090/tlg001/tlg4090.tlg001.1st1K-grc1.xml"
+        },
+        "dramatispersonae": {
+          "path": "./tlg0085/tlg005/tlg0085.tlg005.1st1K-grc1.xml"
+        },
+        "entry": {
+          "path": "./tlg1416/tlg007/tlg1416.tlg007.1st1K-grc1.xml"
+        },
+        "ephymn": {
+          "path": "./tlg0085/tlg007/tlg0085.tlg007.1st1K-grc1.xml"
+        },
+        "ephymn.": {
+          "path": "./tlg0085/tlg005/tlg0085.tlg005.1st1K-grc1.xml"
+        },
+        "ephymnion": {
+          "path": "./tlg0085/tlg001/tlg0085.tlg001.1st1K-grc1.xml"
+        },
+        "epigraph": {
+          "path": "./tlg5026/tlg007/tlg5026.tlg007.1st1K-grc1.xml"
+        },
+        "episode": {
+          "path": "./tlg0085/tlg001/tlg0085.tlg001.1st1K-grc1.xml"
+        },
+        "epistle": {
+          "path": "./tlg1325/tlg001/tlg1325.tlg001.1st1K-grc1.xml"
+        },
+        "epode": {
+          "path": "./tlg0085/tlg003/tlg0085.tlg003.1st1K-grc1.xml"
+        },
+        "essay": {
+          "path": "./tlg0732/tlg012/tlg0732.tlg012.1st1K-grc2.xml"
+        },
+        "excerpt": {
+          "path": "./tlg1286/tlg020/tlg1286.tlg020.1st1K-grc1.xml"
+        },
+        "fable": {
+          "path": "./tlg0096/tlg002/tlg0096.tlg002.opp-grc3.xml"
+        },
+        "fabula": {
+          "path": "./tlg0096/tlg002/tlg0096.tlg002.1st1K-grc1.xml"
+        },
+        "folio": {
+          "path": "./tlg4016/tlg005/tlg4016.tlg005.1st1K-grc1.xml"
+        },
+        "fragment": {
+          "path": "./tlg1664/tlg001/tlg1664.tlg001.1st1K-grc1.xml"
+        },
+        "haeresis": {
+          "path": "./tlg2021/tlg003/tlg2021.tlg003.1st1K-grc1.xml"
+        },
+        "heading": {
+          "path": "./tlg0527/tlg048/tlg0527.tlg048.opp-eng2.xml"
+        },
+        "homilia": {
+          "path": "./tlg2042/tlg009/tlg2042.tlg009.opp-grc1.xml"
+        },
+        "hypothesis": {
+          "path": "./tlg0085/tlg007/tlg0085.tlg007.1st1K-grc1.xml"
+        },
+        "iambics": {
+          "path": "./tlg0085/tlg002/tlg0085.tlg002.1st1K-grc1.xml"
+        },
+        "index": {
+          "path": "./tlg4003/tlg002/tlg4003.tlg002.1st1K-grc1.xml"
+        },
+        "letter": {
+          "path": "./tlg2018/tlg008/tlg2018.tlg008.1st1K-grc1.xml"
+        },
+        "line": {
+          "path": "./tlg5019/tlg002/tlg5019.tlg002.1st1K-grc1.xml"
+        },
+        "lines": {
+          "path": "./tlg2042/tlg086/tlg2042.tlg086.1st1K-grc1.xml"
+        },
+        "lyric": {
+          "path": "./tlg0085/tlg001/tlg0085.tlg001.1st1K-grc1.xml"
+        },
+        "page": {
+          "path": "./tlg1669/tlg004/tlg1669.tlg004.1st1K-grc1.xml"
+        },
+        "paragraph": {
+          "path": "./tlg0066/tlg001/tlg0066.tlg001.1st1K-grc1.xml"
+        },
+        "part": {
+          "path": "./tlg0086/tlg047/tlg0086.tlg047.1st1K-grc1.xml"
+        },
+        "poem": {
+          "path": "./tlg0533/tlg007/tlg0533.tlg007.1st1K-grc1.xml"
+        },
+        "proode": {
+          "path": "./tlg0085/tlg002/tlg0085.tlg002.1st1K-grc1.xml"
+        },
+        "psalm": {
+          "path": "./tlg2042/tlg044/tlg2042.tlg044.1st1K-grc1.xml"
+        },
+        "quaestio": {
+          "path": "./tlg0732/tlg012/tlg0732.tlg012.1st1K-grc2.xml"
+        },
+        "sction": {
+          "path": "./tlg0057/tlg075/tlg0057.tlg075.1st1K-grc1.xml"
+        },
+        "section": {
+          "path": "./tlg0090/tlg001/tlg0090.tlg001.opp-lat4.xml"
+        },
+        "sectionn": {
+          "path": "./tlg0057/tlg075/tlg0057.tlg075.1st1K-grc1.xml"
+        },
+        "sentence": {
+          "path": "./tlg0575/tlg001/tlg0575.tlg001.1st1K-grc1.xml"
+        },
+        "setence": {
+          "path": "./tlg0732/tlg011/tlg0732.tlg011.1st1K-grc1.xml"
+        },
+        "setion": {
+          "path": "./tlg0057/tlg075/tlg0057.tlg075.1st1K-grc1.xml"
+        },
+        "sigla": {
+          "path": "./tlg0643/tlg001/tlg0643.tlg001.1st1K-grc2.xml"
+        },
+        "source": {
+          "path": "./tlg2018/tlg011/tlg2018.tlg011.1st1K-lat1.xml"
+        },
+        "strophe": {
+          "path": "./tlg0085/tlg001/tlg0085.tlg001.1st1K-grc1.xml"
+        },
+        "subdsection": {
+          "path": "./tlg0563/tlg001/tlg0563.tlg001.1st1K-grc1.xml"
+        },
+        "subection": {
+          "path": "./tlg0563/tlg001/tlg0563.tlg001.1st1K-grc1.xml"
+        },
+        "subsection": {
+          "path": "./tlg0563/tlg001/tlg0563.tlg001.1st1K-grc1.xml"
+        },
+        "textpart": {
+          "path": "./tlg0061/tlg004/tlg0061.tlg004.1st1K-grc1.xml"
+        },
+        "trochees": {
+          "path": "./tlg0085/tlg001/tlg0085.tlg001.1st1K-grc1.xml"
+        },
+        "verse": {
+          "path": "./tlg0527/tlg057/tlg0527.tlg057.1st1K-grc1.xml"
+        },
+        "volume": {
+          "path": "./tlg5026/tlg001/tlg5026.tlg001.1st1K-grc1.xml"
+        },
+        "work": {
+          "path": "./tlg1126/tlg003/tlg1126.tlg003.1st1K-grc1.xml"
+        }
+      }
+    }
+  }
+}
